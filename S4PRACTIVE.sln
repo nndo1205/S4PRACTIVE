@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S4PRACTIVE", "S4PRACTIVE\S4PRACTIVE.csproj", "{AEB2AEF6-7141-4ABC-85A2-F8FF1FFA7D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB2AEF6-7141-4ABC-85A2-F8FF1FFA7D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB2AEF6-7141-4ABC-85A2-F8FF1FFA7D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB2AEF6-7141-4ABC-85A2-F8FF1FFA7D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB2AEF6-7141-4ABC-85A2-F8FF1FFA7D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {113028D2-6191-498E-8F12-ECACC9EE9099}
+	EndGlobalSection
+EndGlobal
